@@ -18,8 +18,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "CommunityX",
-  description: "CommunityX",
+  title: "Spacify",
+  description: "a platform that’s reimagining the way we connect and interact in online communities",
 };
 
 export default function RootLayout({

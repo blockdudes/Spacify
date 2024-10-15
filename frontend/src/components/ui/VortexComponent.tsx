@@ -13,13 +13,13 @@ export function VortexComponent() {
         className="flex items-center flex-col justify-center px-2 md:px-10 py-4 w-full h-full"
       >
         <h2 className="text-white text-3xl md:text-7xl font-bold text-center leading-tight">
-          CommunityX
+          Spacify
         </h2>
         <p className="text-white text-base md:text-3xl max-w-xl mt-4 text-center leading-normal">
           A Community Management Platform
         </p>
         <p className="text-white text-base md:text-xl max-w-2xl mt-4 text-center leading-relaxed">
-          Ideal for DAOs, CommunityX facilitates seamless communication and governance in a decentralized environment, empowering members to collaborate effectively.
+          Ideal for DAOs, Spacify facilitates seamless communication and governance in a decentralized environment, empowering members to collaborate effectively.
         </p>
         <div className="flex flex-col sm:flex-row items-center gap-4 mt-6 z-50">
           <WalletSelector />
