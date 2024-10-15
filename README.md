@@ -29,9 +29,9 @@ SPACIFY is more than just another platform; it’s the future of online communit
 ### Project Structure
 The project consists of three main components:
 
-**Backend**
-**Contract**
-**Frontend**
+##### Frontend
+##### Backend
+##### Contract
 
 ### How to run
 1. Install Dependencies
